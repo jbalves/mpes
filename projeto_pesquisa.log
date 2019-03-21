@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.25)  21 MAR 2019 14:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.25)  21 MAR 2019 15:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -289,27 +289,35 @@ eto_pesquisa.toc)
  [1] [2] [3]
 (./projeto_pesquisa.bbl
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
+(Font)              <12> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 11.
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+
+Underfull \hbox (badness 1028) in paragraph at lines 17--19
+[]\T1/cmr/m/n/12 SAMETINGER, J. \T1/cmr/m/it/12 Soft-ware en-gi-ne-e-ring with 
+reu-sa-ble
+ []
+
 ) [4] (./projeto_pesquisa.aux) ) 
 Here is how much of TeX's memory you used:
- 1088 strings out of 493089
- 11828 string characters out of 6134842
- 73245 words of memory out of 5000000
- 4608 multiletter control sequences out of 15000+600000
- 8871 words of font info for 21 fonts, out of 8000000 for 9000
+ 1106 strings out of 493089
+ 12012 string characters out of 6134842
+ 72270 words of memory out of 5000000
+ 4618 multiletter control sequences out of 15000+600000
+ 11606 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  24i,4n,23p,707b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/d
 vips/cm-super/cm-super-t1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/p
-ublic/cm-super/sfbx1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
-lic/cm-super/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
-c/cm-super/sfbx1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
-cm-super/sfrm1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm
--super/sfti0700.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-s
-uper/sfti1000.pfb>
-Output written on projeto_pesquisa.pdf (5 pages, 110372 bytes).
+ublic/cm-super/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
+lic/cm-super/sfbx1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
+c/cm-super/sfbx1728.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm
+-super/sfti0800.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-s
+uper/sfti1200.pfb>
+Output written on projeto_pesquisa.pdf (5 pages, 111860 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
