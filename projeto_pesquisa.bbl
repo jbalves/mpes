@@ -5,6 +5,12 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.45.2.1 }
 
+\bibitem[Orozco et al. 2008]{orozco2008}
+\abntrefinfo{Orozco et al.}{OROZCO et al.}{2008}
+{OROZCO, A. M.~S. et al. Linha de produtos de testes baseados em modelos.
+Pontif{\'\i}cia Universidade Cat{\'o}lica do Rio Grande do Sul, 2008.}
+
+
 \bibitem[Pontes 2017]{pontes2017}
 \abntrefinfo{Pontes}{PONTES}{2017}
 {PONTES, E. S. R.~d. Um m{\'e}todo para extra{\c{c}}{\~a}o e evolu{\c{c}}{\~a}o
