@@ -3,6 +3,7 @@
 \usepackage[brazil]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{makeidx}
+\usepackage{tocloft}
 
 \begin{document}
 
@@ -28,7 +29,8 @@
 \end{titlepage}
 %---------------------
  
-
+ 
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}} %Whether you want dots on table of contents
 \tableofcontents
 \addtocontents{toc}{\protect\thispagestyle{empty}}
 \newpage

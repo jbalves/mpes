@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.25)  21 MAR 2019 15:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.25)  21 MAR 2019 15:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -264,37 +264,74 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 44.
+\cftparskip=\skip43
+\cftbeforetoctitleskip=\skip44
+\cftaftertoctitleskip=\skip45
+\cftbeforepartskip=\skip46
+\cftpartnumwidth=\skip47
+\cftpartindent=\skip48
+\cftbeforesecskip=\skip49
+\cftsecindent=\skip50
+\cftsecnumwidth=\skip51
+\cftbeforesubsecskip=\skip52
+\cftsubsecindent=\skip53
+\cftsubsecnumwidth=\skip54
+\cftbeforesubsubsecskip=\skip55
+\cftsubsubsecindent=\skip56
+\cftsubsubsecnumwidth=\skip57
+\cftbeforeparaskip=\skip58
+\cftparaindent=\skip59
+\cftparanumwidth=\skip60
+\cftbeforesubparaskip=\skip61
+\cftsubparaindent=\skip62
+\cftsubparanumwidth=\skip63
+\cftbeforeloftitleskip=\skip64
+\cftafterloftitleskip=\skip65
+\cftbeforefigskip=\skip66
+\cftfigindent=\skip67
+\cftfignumwidth=\skip68
+\c@lofdepth=\count88
+\c@lotdepth=\count89
+\cftbeforelottitleskip=\skip69
+\cftafterlottitleskip=\skip70
+\cftbeforetabskip=\skip71
+\cfttabindent=\skip72
+\cfttabnumwidth=\skip73
+)
 (./projeto_pesquisa.aux)
 \openout1 = `projeto_pesquisa.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
  [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./proj
-eto_pesquisa.toc)
+eto_pesquisa.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
 \tf@toc=\write3
 \openout3 = `projeto_pesquisa.toc'.
 
  [1] [2] [3]
 (./projeto_pesquisa.bbl
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 11.
-
 Underfull \hbox (badness 1028) in paragraph at lines 17--19
 []\T1/cmr/m/n/12 SAMETINGER, J. \T1/cmr/m/it/12 Soft-ware en-gi-ne-e-ring with 
 reu-sa-ble
@@ -302,13 +339,13 @@ reu-sa-ble
 
 ) [4] (./projeto_pesquisa.aux) ) 
 Here is how much of TeX's memory you used:
- 1106 strings out of 493089
- 12012 string characters out of 6134842
- 72270 words of memory out of 5000000
- 4618 multiletter control sequences out of 15000+600000
+ 1362 strings out of 493089
+ 15843 string characters out of 6134842
+ 76539 words of memory out of 5000000
+ 4870 multiletter control sequences out of 15000+600000
  11606 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 24i,4n,23p,707b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,4n,23p,707b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/d
 vips/cm-super/cm-super-t1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/p
 ublic/cm-super/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
@@ -317,7 +354,7 @@ c/cm-super/sfbx1728.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
 cm-super/sfrm1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm
 -super/sfti0800.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-s
 uper/sfti1200.pfb>
-Output written on projeto_pesquisa.pdf (5 pages, 111860 bytes).
+Output written on projeto_pesquisa.pdf (5 pages, 111948 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
