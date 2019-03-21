@@ -1,0 +1,16 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.45.2.1 }
+
+\bibitem[Mazo et al. 2012]{Mazo2012}
+\abntrefinfo{Mazo et al.}{MAZO et al.}{2012}
+{MAZO, R. et al. Constraints: The heart of domain and application engineering
+  in the product lines engineering strategy.
+\emph{International Journal of Information System Modeling and Design}, v.~3,
+  n.~2, 2012.}
+
+
+\end{thebibliography}
