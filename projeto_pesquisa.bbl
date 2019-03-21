@@ -5,19 +5,17 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.45.2.1 }
 
-\bibitem[Mazo et al. 2012]{Mazo2012}
-\abntrefinfo{Mazo et al.}{MAZO et al.}{2012}
-{MAZO, R. et al. Constraints: The heart of domain and application engineering
-  in the product lines engineering strategy.
-\emph{International Journal of Information System Modeling and Design}, v.~3,
-  n.~2, 2012.}
-
-
 \bibitem[Pressman e Maxim 2011]{pressman2011}
 \abntrefinfo{Pressman e Maxim}{PRESSMAN; MAXIM}{2011}
 {PRESSMAN, R.; MAXIM, B. \emph{Engenharia de Software, uma abordagem
   profissional--7{\textordfeminine} Edi{\c{c}}{\~a}o}. [S.l.]: McGraw Hill
   Brasil, 2011.}
+
+
+\bibitem[Sametinger 1997]{sametinger1997}
+\abntrefinfo{Sametinger}{SAMETINGER}{1997}
+{SAMETINGER, J. \emph{Software engineering with reusable components}. [S.l.]:
+  Springer Science \& Business Media, 1997.}
 
 
 \bibitem[Sommerville 2011]{Sommerville2011}
