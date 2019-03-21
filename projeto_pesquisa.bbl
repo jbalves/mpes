@@ -5,6 +5,19 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.45.2.1 }
 
+\bibitem[Bertolino 2007]{bertolino2007}
+\abntrefinfo{Bertolino}{BERTOLINO}{2007}
+{BERTOLINO, A. Software testing research: Achievements, challenges, dreams. In:
+   IEEE COMPUTER SOCIETY. \emph{2007 Future of Software Engineering}. [S.l.],
+  2007. p. 85--103.}
+
+
+\bibitem[Fewster e Graham 1999]{fewster1999}
+\abntrefinfo{Fewster e Graham}{FEWSTER; GRAHAM}{1999}
+{FEWSTER, M.; GRAHAM, D. \emph{Software test automation: effective use of test
+  execution tools}. [S.l.]: ACM Press/Addison-Wesley Publishing Co., 1999.}
+
+
 \bibitem[Orozco et al. 2008]{orozco2008}
 \abntrefinfo{Orozco et al.}{OROZCO et al.}{2008}
 {OROZCO, A. M.~S. et al. Linha de produtos de testes baseados em modelos.
