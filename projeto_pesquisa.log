@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.25)  21 MAR 2019 07:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.25)  21 MAR 2019 08:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -283,30 +283,30 @@ eto_pesquisa.toc)
 \tf@toc=\write3
 \openout3 = `projeto_pesquisa.toc'.
 
- [1] (./projeto_pesquisa.bbl
+ [1] [2] (./projeto_pesquisa.bbl
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 19.
 )
-[2] [3] (./projeto_pesquisa.aux) ) 
+[3] (./projeto_pesquisa.aux) ) 
 Here is how much of TeX's memory you used:
- 1082 strings out of 493089
- 11667 string characters out of 6134842
+ 1083 strings out of 493089
+ 11681 string characters out of 6134842
  72245 words of memory out of 5000000
- 4605 multiletter control sequences out of 15000+600000
+ 4606 multiletter control sequences out of 15000+600000
  8871 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  24i,4n,23p,672b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc
-/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1
-/public/cm-super/sfbx1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
-ublic/cm-super/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
-lic/cm-super/sfbx1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
-c/cm-super/sfrm1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
-cm-super/sfti0700.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm
--super/sfti1000.pfb>
-Output written on projeto_pesquisa.pdf (4 pages, 108512 bytes).
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvi
+ps/cm-super/cm-super-t1.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/pub
+lic/cm-super/sfbx1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
+c/cm-super/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+cm-super/sfbx1440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm
+-super/sfrm1000.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-s
+uper/sfti0700.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-sup
+er/sfti1000.pfb>
+Output written on projeto_pesquisa.pdf (4 pages, 110330 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream
