@@ -5,6 +5,14 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.45.2.1 }
 
+\bibitem[Assun{\c{c}}{\~a}o et al. 2017]{assunccao2017}
+\abntrefinfo{Assun{\c{c}}{\~a}o et al.}{ASSUN{\c{C}}{\~A}O et al.}{2017}
+{ASSUN{\c{C}}{\~A}O, W.~K. et al. Reengineering legacy applications into
+  software product lines: a systematic mapping.
+\emph{Empirical Software Engineering}, Springer, v.~22, n.~6, p. 2972--3016,
+  2017.}
+
+
 \bibitem[Bertolino 2007]{bertolino2007}
 \abntrefinfo{Bertolino}{BERTOLINO}{2007}
 {BERTOLINO, A. Software testing research: Achievements, challenges, dreams. In:
